@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ShrineShoppingTest</name>
+   <tag></tag>
+   <comment>Verify all item clear</comment>
+   <testCaseGuid>115f3b69-5e35-4df0-a6dc-bbdd24251cf2</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3b13eec9-ac03-4435-bb2b-2b065a5d15ff</id>
+      <masked>false</masked>
+      <name>startX</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>fe2822d3-4e60-43ad-b44c-ed4d811309ad</id>
+      <masked>false</masked>
+      <name>startY</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>dd1d7b6c-4b1e-4863-83a7-204871cefeeb</id>
+      <masked>false</masked>
+      <name>endX</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>b80dd98f-7a4b-4ba6-822c-66fbc495884f</id>
+      <masked>false</masked>
+      <name>endY</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>4e40d601-0cfa-4f26-a9da-33303a1483a2</id>
+      <masked>false</masked>
+      <name>device_Height</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ce1f5a4a-340a-4418-9c4e-453ed30d5990</id>
+      <masked>false</masked>
+      <name>device_Width</name>
+   </variable>
+</TestCaseEntity>
