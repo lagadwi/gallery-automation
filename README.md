@@ -6,7 +6,6 @@ Gallery Automation is a Automation using Katalon Studio and it's easy to run tes
 https://www.katalon.com/download/
 2. install Android Studio for using ADV(Android Virtual Device)
 https://developer.android.com/studio
-3. 
 
 ## Usage
 1. Open this project on Katalon Studio
