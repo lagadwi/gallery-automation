@@ -6,6 +6,7 @@ Gallery Automation is a Automation using Katalon Studio and it's easy to run tes
 https://www.katalon.com/download/
 2. install Android Studio for using ADV(Android Virtual Device)
 https://developer.android.com/studio
+I suggest use android studio  because you can change device API level, so we can do tests on multiple devices with different API level
 3. Clone and build Gallery application
 https://github.com/flutter/gallery
 or you also can download it on
