@@ -15,7 +15,8 @@ https://drive.google.com/file/d/1sQfSl8321040peNwxy7EsjPCHZlfryuI/view?usp=shari
 ## Usage
 RUN TEST SUITE
 1. Open this project on Katalon Studio
-2. Start ADV on Android studio, if there is no device, create one
+2. Start ADV on Android studio, if there is no device, 
+   create one device Pixel 2 with android version Pie(API level 28) and run it
 3. Put apk file on gallery-automation\androidapp and rename it to "app-release.apk"
 4. Open include>features>Shopping.feature, block entire lines press  right click recalculate steps or press f5
 5. Open Test Suites>EndToEndTest, Run test suite using android device
