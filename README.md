@@ -6,6 +6,10 @@ Gallery Automation is a Automation using Katalon Studio and it's easy to run tes
 https://www.katalon.com/download/
 2. install Android Studio for using ADV(Android Virtual Device)
 https://developer.android.com/studio
+3. Clone and build Gallery application
+https://github.com/flutter/gallery
+or you also can download it on
+https://drive.google.com/file/d/1sQfSl8321040peNwxy7EsjPCHZlfryuI/view?usp=sharing
 
 ## Usage
 RUN TEST SUITE
